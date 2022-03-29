@@ -58,8 +58,15 @@
 
 
 ### 결과 
+![image](https://user-images.githubusercontent.com/19571027/160528672-d6b17db6-bc80-49fc-8b33-4dea719cdd76.png)
 
-- 
+- 웹페이지 상의 사용자의 그림을 여성 아이돌 이미지로 실사화
+
+![image](https://user-images.githubusercontent.com/19571027/160528786-9101ed9f-f09b-4078-8d1b-aca395d396c9.png)
+![image](https://user-images.githubusercontent.com/19571027/160528795-a0e65ddd-7a27-4c85-b869-a04e83fd6582.png)
+- 몽타주 그림외 웹툰 이미지 실사화 
+
+
 ## Folder Structure
 
 ```
