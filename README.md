@@ -49,10 +49,10 @@
   - 극복
     - OpenCV를 통해 윈도우 툴(Photoshop)의 기능을 Linux에서 구현
     - -> 윈도우~리눅스간 이미지 이동 과정 제거
-    - FastAPI를 통해 서버를 구축
+    - FastAPI를 통해 서버 구축
     - -> 이미지 수집시, Crawling외에 팀원들이 직접 이미지 업로드 가능
     - Airflow를 통해 데이터 전처리 파이프라인 구축
-    - -> 데이터 전처리를 자동화를 통한 삶의 질 증가
+    - -> 이미지 전처리 자동화를 통한 삶의 질 증가
     
     - ![image](https://user-images.githubusercontent.com/19571027/160527834-3385e85c-c45a-4f2e-afdd-b671f2e8bbc2.png)
 
